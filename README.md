@@ -29,9 +29,6 @@ cd movie-graph
 ### 2. Install dependencies
 pip install -r requirements.txt
 
-Allow CSVs despite gitignore
-!*.csv
-
 ### 3. Import the database
 - Open Neo4j Desktop and create a new database
 - Run the schema constraints and import queries
