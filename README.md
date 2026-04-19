@@ -29,7 +29,7 @@ cd movie-graph
 ### 2. Install dependencies
 pip install -r requirements.txt
 
-# Allow CSVs despite gitignore
+Allow CSVs despite gitignore
 !*.csv
 
 ### 3. Import the database
