@@ -52,7 +52,7 @@ C:\Users\<YourName>\.Neo4jDesktop\Data\dbmss\<your-dbms-id>\import\
 - Run the Cypher queries from the `cypher/` folder **in order**
 
 ### Step 4 — Configure environment
-Create a file named `.env` in the `movie-graph` folder and paste the following:
+Already created a file named `.env` in the `movie-graph` folder :
 ```
 NEO4J_URI=bolt://localhost:7687
 NEO4J_USERNAME=neo4j
